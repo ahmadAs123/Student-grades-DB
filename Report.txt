@@ -1,0 +1,9 @@
+number of the students :4
+number of students that  did only one exam of the two exams :0
+number of student  that didnt do both of them :0
+The persentage of the students that faild in the first exam :50.000000
+The persentage of student that faild in the second exam :25.000000
+The avarage in the first exam :59.750000
+The avarage in the second exam :61.250000
+The student that had the max mark :376846756
+The student that had the min mark :322786545
